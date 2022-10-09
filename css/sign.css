@@ -1,0 +1,117 @@
+body{
+    background-image: url("shopping-cart-with-gift-on-1265581.jpg");
+    width: 500px;
+    height: 400px;
+    margin-right: 160px;
+    margin-left: 400px;
+}
+.wS{
+    color: #ff80bd;
+    text-align: center;
+    margin-right: -10%;
+    text-shadow: 2px 2px 2px black ;
+    display: inline-block;
+    position:absolute;
+    left: 50%;
+    top: 3%;
+    transform: translate(-50%,-50%);
+}
+.p{
+    position:absolute;
+    background: rgb(251, 186, 214);
+    height: 300px;
+    width: 300px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 16px 16px 16px #b40f0f93;
+    border-radius: 13px;
+}
+.g{
+    margin-left: 10px;
+    text-align: center;
+    margin-top: 10px ;
+    position:relative;
+    bottom: -7px;
+    left: 50%;
+    right: 40%;
+    transform: translate(-50%,-50%);
+}
+.b{
+    margin-left: 4px;
+    position: relative;
+    border-radius: 5px;
+    text-align: center;
+}
+.s{
+    text-align: center;
+    margin: auto;
+    margin-top: 10px ;
+    position: relative;
+    bottom: -8px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+}
+.m{
+    position: relative;
+    border-radius: 5px;
+    text-align: center;
+}
+.nm{
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    bottom: -15px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+    width: 68px;
+}
+.ja{
+    margin-left: 10px;
+    text-align: center;
+    margin-top: 80px ;
+    position:relative;
+    bottom: -5px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+}
+.sa{
+    border-radius: 5px;
+    text-align: center;
+}
+.ad{
+    border-radius: 5px;
+    text-align: center;
+}
+label{
+    color: black;
+    position: relative;
+    right: 100px;
+}
+input{
+    position: relative;
+    left: 10px;
+    width: 150px;
+    margin-top: 10px;
+}
+.lpy{
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    bottom: -15px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+    width: 68px; 
+}
+.m{
+    position: relative;
+    left: 20px;
+}
+.z{
+    position: relative;
+    right: 20px;
+}

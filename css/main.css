@@ -1,0 +1,44 @@
+body{
+   /* background-color: black; */
+    background-image: url("shopping-cart-with-gift-on-1265581.jpg") ;
+    background-blend-mode: overlay;
+    font-family: 'Radio Canada', sans-serif;
+    margin: 0px;
+    background-repeat: no-repeat;
+}
+.v{
+    position: absolute;
+    left: 2%;
+    top: 2.5%;
+    transform: translate(-50%,-50%);
+    width: 30px;
+    height: 30px;
+}
+.k{
+    background-color: rgba(8, 8, 8, 0.8);
+    width: 100%;
+    height: 35px;
+    position: fixed;
+    text-align: center;
+    background-attachment: fixed;
+}
+.b,.c,.f{
+    text-decoration: none;
+    color: white;
+    top: 6px;
+}
+.b{
+    position: absolute;
+    left: 95%;
+    font-size: medium;
+}
+.c{
+    position: absolute;
+    left: 90%;
+    font-size: medium;
+}
+.f{
+    position: absolute;
+    left: 80%;
+    font-size: medium;
+}
